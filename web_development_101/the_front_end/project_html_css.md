@@ -68,7 +68,9 @@ Note: All the classes and id's and names of elements that you inspect on Google'
 
 ### Viewing your project on the web
 
-If you want to show your work (the project) to others, or submit a solution below, you will need to publish your site so that others can access it from the web, rather than just on your local machine.  The good news is that if you have your project on GitHub (as described above) doing this is incredibly simple.
+If you want to show your work (the project) to others, or submit a solution below, you will need to publish your site so that others can access it from the web, rather than just on your local machine.  The good news is that if you have your project on GitHub (as described above) doing this is incredibly simple.  There are a couple of options here, both with their own pros and cons.
+
+#### Option 1: github-pages
 
 Github allows you to publish web projects directly from a GitHub repository.  Doing this will allow you to access your project from `your-gh-username.github.io/your-github-repo-name`
 
@@ -79,6 +81,14 @@ There are a couple of ways to go about doing this, but the simplest is this:
 - scroll down until you find the __GitHub Pages__ section
 - change the __Source__ from _none_ to _master branch_ and click Save.
 - it may take a few minutes (the GitHub website says up to 10) but your project should be accessible over the web from `your-gh-username.github.io/your-github-repo-name` (obviously substituting your own details in the link)
+
+#### Option 2: rawgit
+
+[Rawgit.com](https://rawgit.com) is another option for viewing GitHub projects online.  It is simpler and quicker, but less permanent, likely less reliable than gh-pages, and you don't get the benefit of a nice personalized URL.  That said, for just quickly sending someone a preview of something you aren't ready to officially publish, it works great.
+
+- go to the website: [Rawgit.com](https://rawgit.com)
+- paste in the url to the main html file from your GitHub repo (probably `index.html`)
+- copy and use one of the supplied links to share your project.
 
 ### Student Solutions
 Submit a pull request with a link to your solution in this [file](https://github.com/TheOdinProject/curriculum/blob/master/web_development_101/the_front_end/project_html_css.md) when your project is complete. See the section on [Contributing](http://github.com/TheOdinProject/curriculum/blob/master/contributing.md) for how.
@@ -1863,6 +1873,9 @@ Submit a pull request with a link to your solution in this [file](https://github
 * [Lameck Otieno's Solution (Easy)](https://github.com/Lameck1/google-homepage/tree/gh-pages) - [View in Browser](https://lameck1.github.io/google-homepage/)
 * [vulence's Solution (Difficult)](https://github.com/vulence/google-searchres) - [View in Browser (Difficult)](https://vulence.github.io/google-searchres/)
 * [Preston Schenkel's Solution (Easy)](https://github.com/AShredder/google-homepage) - [View in Browswer](https://ashredder.github.io/google-homepage/) 
+* [Michael Adenika's Solution (Easy) ] (https://github.com/mike201245/google-homepage) - [View in Browser]
+(https://mike201245.github.io/google-search/)
+
 
 
 ### Additional Resources
