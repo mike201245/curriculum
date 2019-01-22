@@ -1864,6 +1864,7 @@ Submit a pull request with a link to your solution in this [file](https://github
 * [vulence's Solution (Difficult)](https://github.com/vulence/google-searchres) - [View in Browser (Difficult)](https://vulence.github.io/google-searchres/)
 * [Preston Schenkel's Solution (Easy)](https://github.com/AShredder/google-homepage) - [View in Browswer](https://ashredder.github.io/google-homepage/) 
 * [Javier Fernandez 's solution(Easy)](https://github.com/Javfs93/google-homepage) - [View in Browser](https://github.com/Javfs93/google-homepage/blob/master/index.html)
+* [Adenika Michael's solution (Easy)] (https://mike201245.github.io/google-search/) - [view in Browser] (https://mike201245.github.io/google-search/)
 
 
 ### Additional Resources
